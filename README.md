@@ -1,1 +1,1 @@
-# my_first_project
+# to plot GPU parameters from hwinfo64
